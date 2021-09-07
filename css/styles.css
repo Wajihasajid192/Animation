@@ -164,7 +164,7 @@ form{
   justify-content: center;
   align-items: center;
   display: flex;
-  margin-top: 50px;
+    margin-top: 200px;
   flex-direction: column;
 }
 .second-heading{
